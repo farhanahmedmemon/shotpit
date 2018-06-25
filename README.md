@@ -11,7 +11,7 @@ Open with Maven Project
 
 ## Dependencies
 
-> Java 8.0
-> Spring
-> Spring MVC
-> Hibernate
+- Java 8.0
+- Spring
+- Spring MVC
+- Hibernate
